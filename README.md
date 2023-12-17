@@ -1,3 +1,6 @@
+This Project is learning project. 
+I followed [https://www.youtube.com/watch?v=M07doghBdeg](https://www.youtube.com/watch?v=M07doghBdeg) this course
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
